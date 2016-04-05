@@ -13,11 +13,11 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	</head>
 	<body>
-		<header>
+		<!--<header>-->
 			<?php
 				include 'header.php';
 			?>
-		</header>
+		<!--</header>-->
 		<div id="slide1"></div>
 		<div id="slide2">
 			<div class="col-xs-1"></div>
