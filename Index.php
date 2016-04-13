@@ -21,7 +21,7 @@
 		<div id="slide1"></div>
 		<div id="slide2">
 			<div class="col-xs-1"></div>
-			<div class="col-xs-10">
+			<div class="col-xs-10 jumbotron">
 				<h1>Introduction</h1>
 				<p class="intro">Warhammer est un univers imaginaire d’heroic fantasy créé dans les années 1980 par la société Games Workshop et développé pour servir de cadre au jeu de figurines Warhammer Fantasy Battle (1983) ainsi que pour d'autres jeux, notamment le jeu de rôle Warhammer Fantasy Roleplay (1986) et son extension futuriste Warhammer 40,000 (1987).</p>
 				<img src="./img/duel.jpg" class="duel" alt="duel" />
@@ -33,35 +33,34 @@
 		<div id="slide3">
 			<div class="row">	
 				<div class="col-xs-1"></div>
-				<div class="col-xs-10">
+				<div class="col-xs-10 jumbotron">
 					<h1 class="titlequi"> Qui suis-je ?</h1>
 					<img src="./img/me.jpg" class="myself" alt="Qui suis-je" />
 					<p class="qui"> Moi c'est Antoine, ou AnonySmith au choix. Jeune de 23ans je collectionne et peint des Warhammer depuis plus de 11ans. Je possède une collection de plus de 1000 figurines.</p>
 					<p class="qui"> Ce site est un site tuto/vitrine, je tacherais régulierement de créer des tutos et articles sur le modelisme, la peinture et le jeux de stratégie warhammer/warhammer 40K. J'ajouterais également régulierement des photos de mes plus belles oeuvres.</p>
 					<p class="qui"> Mon armée ce compose de beaucoup de figurines du seigneur des anneaux qui me serviront pour les articles modelisme. Pour warhammer je possède beaucoup de figurines issus des Haut-elfes, des Skavens et des démons du cahos.</p>
+					<div class="row">
+						<div class="col-xs-2"></div>
+						<div class="col-xs-2 icone">
+							<img src="./img/ico1.jpg" class="icono" alt="icone"/>
+							<p class="comp">Peinture</p>
+						</div>
+						<div class="col-xs-1"></div>
+						<div class="col-xs-2 icone">
+							<img src="./img/ico2.jpg" class="icono" alt="icone"/>
+							<p class="comp">Modelisme</p>
+						</div>
+						<div class="col-xs-1"></div>
+						<div class="col-xs-2 icone">
+							<img src="./img/ico3.jpg" class="icono" alt="icone"/>
+							<p class="comp">Gameplay</p>
+						</div>
+						<div class="col-xs-2"></div>
+					</div>
 				</div>
 				<div class="col-xs-1"></div>
-			</div>
-			<div class="row">
-				<div class="col-xs-2"></div>
-				<div class="col-xs-2 icone">
-					<img src="./img/ico1.jpg" class="icono" alt="icone"/>
-					<p class="comp">Peinture</p>
-				</div>
-				<div class="col-xs-1"></div>
-				<div class="col-xs-2 icone">
-					<img src="./img/ico2.jpg" class="icono" alt="icone"/>
-					<p class="comp">Modelisme</p>
-				</div>
-				<div class="col-xs-1"></div>
-				<div class="col-xs-2 icone">
-					<img src="./img/ico3.jpg" class="icono" alt="icone"/>
-					<p class="comp">Gameplay</p>
-				</div>
-				<div class="col-xs-2"></div>
 			</div>
 		</div>
-		<div id="slide4"></div>
 
 		<footer>
 			<div class="col-xs-4 foot">
